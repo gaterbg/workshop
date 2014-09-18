@@ -1,5 +1,5 @@
 <?php
-echo "
+echo " new line
 new file ";
 ?>
 
